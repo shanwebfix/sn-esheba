@@ -54,7 +54,7 @@ export default function MainCategories() {
         সকল ক্যাটাগরি
       </h2>
 
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+      <div className="grid grid-cols-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 gap-4">
         {mainCategories.map((cat) => {
           const IconComponent = LucideIcons[cat.icon]
           
@@ -62,7 +62,7 @@ export default function MainCategories() {
             <div
               key={cat.id}
               onClick={() => navigate(cat.path)}
-              className="cursor-pointer flex flex-col items-center justify-center p-3 sm:p-4 bg-white dark:bg-gray-800 rounded-lg sm:rounded-xl shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300"
+              className="cursor-pointer flex flex-col items-center justify-center p-5 sm:p-8 bg-white dark:bg-gray-800 rounded-lg sm:rounded-xl shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300 border border-red-200 dark:border-red-800"
             >
               <div className="text-blue-500 dark:text-blue-400 mb-1 sm:mb-2">
                 {IconComponent ? (
