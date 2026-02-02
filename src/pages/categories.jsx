@@ -6,7 +6,7 @@ export default function MainCategories() {
   const navigate = useNavigate()
 
   const mainCategories = [
-    { id: 1, title: 'ইসলামিক', icon: 'Mosque', path: '/islamic.jsx' },
+    { id: 1, title: 'ইসলামিক', icon: 'Mosque', path: '/islamic' },
     { id: 2, title: 'লাইব্রেরি', icon: 'Book', path: '/library' },
     { id: 3, title: 'ডাক্তার', icon: 'Stethoscope', path: '/doctor' },
     { id: 4, title: 'ফার্মেসি', icon: 'Pill', path: '/pharmacy' },
