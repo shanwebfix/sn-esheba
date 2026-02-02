@@ -8,7 +8,7 @@ import Home from './pages/Home'
 
 // Category Pages - Lazy load করুন performance এর জন্য
 const IslamicPage = lazy(() => import('./pages/categories/Islamic'))
-const LibraryPage = lazy(() => import('./pages/categories/Library'))
+const LibraryPage = lazy(() => import('./pages/categories/Library.jsx'))
 const DoctorPage = lazy(() => import('./pages/categories/Doctor'))
 const PharmacyPage = lazy(() => import('./pages/categories/Pharmacy'))
 const HospitalPage = lazy(() => import('./pages/categories/Hospital'))
