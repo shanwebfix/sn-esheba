@@ -1,0 +1,4 @@
+export default function narsary() {
+  return <div className="text-center py-20">
+    <h1 className="text-4xl font-bold text-blue-500">narsary Page</h1></div>
+}
