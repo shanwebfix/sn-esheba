@@ -1,4 +1,10 @@
-export default function islamic() {
-  return <div className="text-center py-20">
-    <h1 className="text-4xl font-bold text-blue-500">islamic Page</h1></div>
+import React from 'react'
+
+export default function Islamic() {
+  return (
+    <div className="p-6">
+      <h1 className="text-2xl font-bold mb-4">ইসলামিক ক্যাটাগরি</h1>
+      <p>ইসলামিক বিষয়বস্তু এখানে দেখানো হবে...</p>
+    </div>
+  )
 }
