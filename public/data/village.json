@@ -1,0 +1,661 @@
+[
+  { 
+    "id": 1, 
+    "name": "গোবিন্দপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["১ নং ওয়ার্ড", "নতুন গ্রাম"],
+    "stats": {
+      "population": "৮,৫০০",
+      "literacy": "৬৫%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০২ টি",
+      "playground": "০১ টি",
+      "mosque": "০৮ টি",
+      "mondir": "০ /০ টি",
+      "sasan": "০টি",
+      "graveyard": "০২ টি",
+      "eidgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 2, 
+    "name": "শংকরপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["১ নং ওয়ার্ড", "বড় বাজার"],
+    "stats": {
+      "population": "১৫,০০০+",
+      "literacy": "৭৫%",
+      "primarySchool": "০৪ টি",
+      "highSchool": "০২ টি",
+      "madrasa": "০৩ টি",
+      "playground": "০২ টি",
+      "mosque": "১২ টি",
+      "mondir": "০ /০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০৪ টি",
+      "eidgah": "০২ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 3, 
+    "name": "সারঙ্গপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["১ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৮,৫০০",
+      "literacy": "৬৫%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০২ টি",
+      "playground": "০১ টি",
+      "mosque": "০৮ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০২ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 4, 
+    "name": " সোনাপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["১ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৬,২০০",
+      "literacy": "৬০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৬ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০২ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 5, 
+    "name": "ঘুষপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["১ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৭,৮০০",
+      "literacy": "৭০%",
+      "primarySchool": "০৩ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০২ টি",
+      "playground": "০১ টি",
+      "mosque": "০৭ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০২ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+
+
+
+
+
+
+
+  { 
+    
+    "id": 6, 
+    "name": "নরসিংহপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["২ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৯,৩০০",
+      "literacy": "৬৮%",
+      "primarySchool": "০৩ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০২ টি",
+      "playground": "০১ টি",
+      "mosque": "০৯ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০৩ টি",
+      "idgah": "০২ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 7, 
+    "name": "কৃষ্ণপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["২ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৮,৯০০",
+      "literacy": "৭২%",
+      "primarySchool": "০৩ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০২ টি",
+      "playground": "০১ টি",
+      "mosque": "০৮ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০২ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 8, 
+    "name": "দূর্গাপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["২ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৭,২০০",
+      "literacy": "৬৩%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০২ টি",
+      "playground": "০১ টি",
+      "mosque": "০৬ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০২ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 9, 
+    "name": "হাজীনগর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["২ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৬,৮০০",
+      "literacy": "৬২%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০২ টি",
+      "playground": "০১ টি",
+      "mosque": "০৬ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০২ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 10, 
+    "name": "হরিপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["২ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+{ 
+    "id": 11, 
+    "name": "ভরতপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["২ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 12, 
+    "name": "রঘুনাথ পুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["২ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 13, 
+    "name": "নিত্যানন্দ পুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["২ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+
+
+
+
+
+
+
+
+
+  { 
+    "id": 14, 
+    "name": "রাধানগর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৩ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+   { 
+    "id": 15, 
+    "name": "সতিঝির গ্রাম", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৩ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+   { 
+    "id": 16, 
+    "name": "মরাজানের পাড়", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৩ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+
+
+
+
+
+
+
+
+
+
+   { 
+    "id": 17, 
+    "name": "ভাদাইর দেউল", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৪ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 18, 
+    "name": "কেচুলুটি", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৪ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 19, 
+    "name": "দৌলতপুর", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৪ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+
+
+
+
+
+
+
+  { 
+    "id": 20, 
+    "name": "শমশেরনগর বাজার", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৫ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+
+
+
+
+
+
+    { 
+    "id": 21, 
+    "name": "শিংরাউলী", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৬ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 22, 
+    "name": "ঈদগাটিলা", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৬ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+  { 
+    "id": 23, 
+    "name": "বড়চেগ", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৬ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+
+
+
+
+
+  { 
+    "id": 24, 
+    "name": "শমশেরনগর চা বাগান", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৭ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+
+
+
+
+
+
+
+
+    { 
+    "id": 25, 
+    "name": "কানিহাটি চা বাগান", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৮ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+      { 
+    "id": 26, 
+    "name": " দেওছড়া চা বাগান", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৮ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+
+
+
+
+
+
+
+
+
+
+      { 
+    "id": 27, 
+    "name": "বাঘিছড়া চা বাগান", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৬ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  },
+        { 
+    "id": 28, 
+    "name": "ডাবলছড়া চা বাগান", 
+    "dak": "শমসেরনগর",
+    "upazila": "কমলগঞ্জ", 
+    "tags": ["৬ নং ওয়ার্ড"],
+    "stats": {
+      "population": "৫,৫০০",
+      "literacy": "৮০%",
+      "primarySchool": "০২ টি",
+      "highSchool": "০১ টি",
+      "madrasa": "০১ টি",
+      "playground": "০১ টি",
+      "mosque": "০৫ টি",
+      "mondir": "০ / ০ টি",
+      "sasan": "০ টি",
+      "graveyard": "০১ টি",
+      "idgah": "০১ টি"
+    },
+    "mapUrl": "https://maps.google.com"
+  }
+
+
+
+
+
+
+
+
+]

@@ -7,6 +7,11 @@ export default {
   darkMode: 'class',
   theme: {
     extend: {
+
+   
+      
+
+          
       colors: {
         // Primary Colors - ব্র্যান্ড কালার
         primary: {
@@ -170,16 +175,24 @@ export default {
       },
 
       // Animation Extensions
-      animation: {
+animation: {
         'fade-in': 'fadeIn 0.3s ease-in',
         'fade-out': 'fadeOut 0.3s ease-out',
         'slide-in': 'slideIn 0.3s ease-out',
         'slide-out': 'slideOut 0.3s ease-in',
         'bounce-slow': 'bounce 2s infinite',
         'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+        'infinite-scroll': 'infinite-scroll 25s linear infinite', // Notun line
       },
 
       keyframes: {
+        // --- Notun Scroll Keyframe ---
+        'infinite-scroll': {
+          from: { transform: 'translateX(0)' },
+          to: { transform: 'translateX(-100%)' },
+        },
+        
+        // --- Apnar Existing Keyframes ---
         fadeIn: {
           '0%': { opacity: '0' },
           '100%': { opacity: '1' },

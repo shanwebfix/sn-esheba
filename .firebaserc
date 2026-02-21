@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "sn-eseba"
-  }
+    "default": "sn-eseba",
+    "sn-eseba": "sn-eseba",
+    "myshamshernagar": "myshamshernagar"
+  },
+  "targets": {},
+  "etags": {}
 }
